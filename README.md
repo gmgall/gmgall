@@ -54,6 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Acompanhando Suas Inscrições no YouTube por RSS](https://gmgall.net/blog/acompanhando-suas-inscricoes-no-youtube-por-rss/)
+- [Tchau, Twitter](https://gmgall.net/blog/tchau-twitter/)
+- [Shortcodes no Hugo Inserem Quebras de Linha Indesejadas](https://gmgall.net/blog/shortcodes-no-hugo-inserem-quebras-de-linha-indesejadas/)
+- [Hello World](https://gmgall.net/blog/hello-world/)
+- [Criando Suas Próprias Ações no fail2ban - Parte 3](https://gmgall.net/blog/criando-suas-proprias-acoes-no-fail2ban-parte-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
