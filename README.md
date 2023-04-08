@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Perguntas &quot;idiotas&quot; podem ser tentativas de ter controle sobre um mundo caótico](https://gmgall.net/blog/perguntas-idiotas/)
 - [O Skoob Parece Abandonado](https://gmgall.net/blog/skoob/)
 - [Informações São Efêmeras](https://gmgall.net/blog/informacoes-sao-efemeras/)
 - [Acompanhando Suas Inscrições no YouTube por RSS](https://gmgall.net/blog/acompanhando-suas-inscricoes-no-youtube-por-rss/)
 - [Tchau, Twitter](https://gmgall.net/blog/tchau-twitter/)
-- [Shortcodes no Hugo Inserem Quebras de Linha Indesejadas](https://gmgall.net/blog/shortcodes-no-hugo-inserem-quebras-de-linha-indesejadas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
