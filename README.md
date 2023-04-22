@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Sobre o App do Mastodon e Discussões no Mastodon em Geral](https://gmgall.net/blog/sobre-o-app-do-mastodon-e-discussoes-no-mastodon-em-geral/)
 - [Gerando Feeds Com GitHub Actions e os Servindo Com GitHub Pages](https://gmgall.net/blog/gerando-feeds-com-github-actions-e-os-servindo-com-github-pages/)
 - [Criando Feeds RSS Para Sites Que Não os Fornecem](https://gmgall.net/blog/criando-feeds-rss-com-newslinkrss/)
 - [Perguntas &quot;idiotas&quot; podem ser tentativas de ter controle sobre um mundo caótico](https://gmgall.net/blog/perguntas-idiotas/)
 - [O Skoob Parece Abandonado](https://gmgall.net/blog/skoob/)
-- [Informações São Efêmeras](https://gmgall.net/blog/informacoes-sao-efemeras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
