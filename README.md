@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Migrando Para Uma Alternativa GPL Ao LastPass Authenticator](https://gmgall.net/blog/migrando-para-uma-alternativa-gpl-ao-lastpass-authenticator/)
 - [GitHub Pages e Nomes de Diretório Iniciados com Underline](https://gmgall.net/blog/github-pages-underline/)
 - [Quais Empresas Respeitam o &quot;Unsubscribe&quot;?](https://gmgall.net/blog/unsubscribe/)
 - [input_filename das ferramentas jq e yq não funcionam como esperado](https://gmgall.net/blog/input_filename-em-jq-e-yq/)
 - [Adicionando Comentários via Mastodon em Sites Estáticos](https://gmgall.net/blog/comentarios-via-mastodon/)
-- [squash+merge no Git](https://gmgall.net/blog/squash+merge-no-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
