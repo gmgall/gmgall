@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [A Morte do Omegle e a Web Em Que Cresci](https://gmgall.net/blog/a-morte-do-omegle-e-a-web-em-que-cresci/)
 - [As Consequências de Manter Comunidades de Esquerda na Web](https://gmgall.net/blog/consequencias-de-manter-comunidades-de-esquerda-na-web/)
 - [Migrando Para Uma Alternativa GPL Ao LastPass Authenticator](https://gmgall.net/blog/migrando-para-uma-alternativa-gpl-ao-lastpass-authenticator/)
 - [GitHub Pages e Nomes de Diretório Iniciados com Underline](https://gmgall.net/blog/github-pages-underline/)
 - [Quais Empresas Respeitam o &quot;Unsubscribe&quot;?](https://gmgall.net/blog/unsubscribe/)
-- [input_filename das ferramentas jq e yq não funcionam como esperado](https://gmgall.net/blog/input_filename-em-jq-e-yq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
