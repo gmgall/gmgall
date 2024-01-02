@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Uma Resolução Para Esse Site em 2024](https://gmgall.net/blog/resolucao-para-2024/)
 - [A Morte do Omegle e a Web Em Que Cresci](https://gmgall.net/blog/a-morte-do-omegle-e-a-web-em-que-cresci/)
 - [As Consequências de Manter Comunidades de Esquerda na Web](https://gmgall.net/blog/consequencias-de-manter-comunidades-de-esquerda-na-web/)
 - [Migrando Para Uma Alternativa GPL Ao LastPass Authenticator](https://gmgall.net/blog/migrando-para-uma-alternativa-gpl-ao-lastpass-authenticator/)
 - [GitHub Pages e Nomes de Diretório Iniciados com Underline](https://gmgall.net/blog/github-pages-underline/)
-- [Quais Empresas Respeitam o &quot;Unsubscribe&quot;?](https://gmgall.net/blog/unsubscribe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
