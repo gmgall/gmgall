@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Responda Por E-mail](https://gmgall.net/blog/responda-por-e-mail/)
 - [Automatizando Blogroll Com OPML](https://gmgall.net/blog/automatizando-blogroll-com-opml/)
 - [Ombuds, Gênero Neutro e Status Codes](https://gmgall.net/blog/ombuds-genero-neutro-status-codes/)
 - [Publicar na Web Precisa Ficar Mais Fácil](https://gmgall.net/blog/publicar-na-web-precisa-ficar-mais-facil/)
 - [ActivityPub, Meta e Espantalhos](https://gmgall.net/blog/activitypub-meta-e-espantalhos/)
-- [Uma Resolução Para Esse Site em 2024](https://gmgall.net/blog/resolucao-para-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
