@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Não Olho Mais Para as Estrelas](https://gmgall.net/blog/nao-olho-mais-para-as-estrelas/)
 - [Pós-instalação Void Linux](https://gmgall.net/blog/pos-instalacao-void-linux/)
 - [Premissas Erradas, PipeWire e Bluetooth](https://gmgall.net/blog/premissas-erradas-pipewire-e-bluetooth/)
 - [Fiz Um Concurso Público e Olha No Que Deu](https://gmgall.net/blog/fiz-um-concurso-e-olha-no-que-deu/)
 - [1 Ano de Mastodon](https://gmgall.net/blog/1-ano-de-mastodon/)
-- [Responda Por E-mail](https://gmgall.net/blog/responda-por-e-mail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
