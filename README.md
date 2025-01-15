@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [2 Anos de Site](https://gmgall.net/blog/2-anos-de-site/)
 - [Free Software Advent 2024](https://gmgall.net/blog/free-software-advent-2024/)
 - [Transcrição dos Trechos em Letra Cursiva de &#39;Thermidor&#39;](https://gmgall.net/blog/transcricao-thermidor/)
 - [Windows 95 no QEMU](https://gmgall.net/blog/windows-95-qemu/)
 - [Não Olho Mais Para as Estrelas](https://gmgall.net/blog/nao-olho-mais-para-as-estrelas/)
-- [Pós-instalação Void Linux](https://gmgall.net/blog/pos-instalacao-void-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
