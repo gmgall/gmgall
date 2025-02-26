@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Convertendo Áudios para o Telegram](https://gmgall.net/blog/convertendo-audios-para-o-telegram/)
 - [Sexualidade na Era Vitoriana](https://gmgall.net/blog/sexualidade-na-era-vitoriana/)
 - [Linguagens Declarativas e o Nosso Cérebro](https://gmgall.net/blog/linguagens-declarativas-e-o-nosso-cerebro/)
 - [2 Anos de Site](https://gmgall.net/blog/2-anos-de-site/)
 - [Free Software Advent 2024](https://gmgall.net/blog/free-software-advent-2024/)
-- [Transcrição dos Trechos em Letra Cursiva de &#39;Thermidor&#39;](https://gmgall.net/blog/transcricao-thermidor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
