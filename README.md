@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Transporte Público, Falácias Lógicas e o Direito à Cidade](https://gmgall.net/blog/transporte-publico-falacias-logicas-direito-a-cidade/)
 - [Cultura de Pedir VS Cultura de Adivinhar](https://gmgall.net/blog/cultura-de-pedir-vs-cultura-de-adivinhar/)
 - [Convertendo Áudios para o Telegram](https://gmgall.net/blog/convertendo-audios-para-o-telegram/)
 - [Sexualidade na Era Vitoriana](https://gmgall.net/blog/sexualidade-na-era-vitoriana/)
 - [Linguagens Declarativas e o Nosso Cérebro](https://gmgall.net/blog/linguagens-declarativas-e-o-nosso-cerebro/)
-- [2 Anos de Site](https://gmgall.net/blog/2-anos-de-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
