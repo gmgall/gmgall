@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Tornando Arquivos de Vídeo Enviáveis Pelo WhatsApp Web](https://gmgall.net/blog/arquivos-de-video-enviaveis-pelo-whatsapp-web/)
 - [Erro &quot;Can Not Open External File&quot; ao Tentar Abrir Legendas Com mpv](https://gmgall.net/blog/can-not-open-external-file-mpv/)
 - [Transporte Público, Falácias Lógicas e o Direito à Cidade](https://gmgall.net/blog/transporte-publico-falacias-logicas-direito-a-cidade/)
 - [Cultura de Pedir VS Cultura de Adivinhar](https://gmgall.net/blog/cultura-de-pedir-vs-cultura-de-adivinhar/)
 - [Convertendo Áudios para o Telegram](https://gmgall.net/blog/convertendo-audios-para-o-telegram/)
-- [Sexualidade na Era Vitoriana](https://gmgall.net/blog/sexualidade-na-era-vitoriana/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
