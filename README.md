@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Tédio e Compulsão](https://gmgall.net/blog/tedio-e-compulsao/)
 - [70 Dias de Trump](https://gmgall.net/blog/70-dias-de-trump/)
 - [Tornando Arquivos de Vídeo Enviáveis Pelo WhatsApp Web](https://gmgall.net/blog/arquivos-de-video-enviaveis-pelo-whatsapp-web/)
 - [Erro &quot;Can Not Open External File&quot; ao Tentar Abrir Legendas Com mpv](https://gmgall.net/blog/can-not-open-external-file-mpv/)
 - [Transporte Público, Falácias Lógicas e o Direito à Cidade](https://gmgall.net/blog/transporte-publico-falacias-logicas-direito-a-cidade/)
-- [Cultura de Pedir VS Cultura de Adivinhar](https://gmgall.net/blog/cultura-de-pedir-vs-cultura-de-adivinhar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
