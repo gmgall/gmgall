@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [A Ficha Está Caindo &lpar;na Europa&rpar;](https://gmgall.net/blog/a-ficha-esta-caindo/)
 - [Papagaios Estocásticos e o Futebol](https://gmgall.net/blog/papagaios-estocasticos-e-o-futebol/)
 - [Tédio e Compulsão](https://gmgall.net/blog/tedio-e-compulsao/)
 - [70 Dias de Trump](https://gmgall.net/blog/70-dias-de-trump/)
 - [Tornando Arquivos de Vídeo Enviáveis Pelo WhatsApp Web](https://gmgall.net/blog/arquivos-de-video-enviaveis-pelo-whatsapp-web/)
-- [Erro &quot;Can Not Open External File&quot; ao Tentar Abrir Legendas Com mpv](https://gmgall.net/blog/can-not-open-external-file-mpv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
