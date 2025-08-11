@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Os Protetores de Criancinhas Atacam de Novo](https://gmgall.net/blog/os-protetores-de-criancinhas-atacam-de-novo/)
 - [Workflows do GitHub Actions Indefinidamente Como &quot;Queued&quot;](https://gmgall.net/blog/workflows-do-github-actions-indefinidamente-como-queued/)
 - [A Ficha Está Caindo &lpar;na Europa&rpar;](https://gmgall.net/blog/a-ficha-esta-caindo/)
 - [Papagaios Estocásticos e o Futebol](https://gmgall.net/blog/papagaios-estocasticos-e-o-futebol/)
 - [Tédio e Compulsão](https://gmgall.net/blog/tedio-e-compulsao/)
-- [70 Dias de Trump](https://gmgall.net/blog/70-dias-de-trump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
