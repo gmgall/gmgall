@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [Minha Primeira Distro Linux](https://gmgall.net/blog/minha-primeira-distro-linux/)
 - [Privatização, Terceirização e Morte](https://gmgall.net/blog/privatizacao-terceirizacao-e-morte/)
 - [Os Protetores de Criancinhas Atacam de Novo](https://gmgall.net/blog/os-protetores-de-criancinhas-atacam-de-novo/)
 - [Workflows do GitHub Actions Indefinidamente Como &quot;Queued&quot;](https://gmgall.net/blog/workflows-do-github-actions-indefinidamente-como-queued/)
 - [A Ficha Está Caindo &lpar;na Europa&rpar;](https://gmgall.net/blog/a-ficha-esta-caindo/)
-- [Papagaios Estocásticos e o Futebol](https://gmgall.net/blog/papagaios-estocasticos-e-o-futebol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
