@@ -54,11 +54,11 @@ Minha *web* ideal se parece mais com múltiplas praças públicas ligadas por vi
 
 Meus últimos posts são os seguintes:
 <!-- BLOG-POST-LIST:START -->
+- [A Teoria da Internet Viva](https://gmgall.net/blog/a-teoria-da-internet-viva/)
 - [Ano Novo, Casa Nova](https://gmgall.net/blog/ano-novo-casa-nova/)
 - [Atualização do Ubuntu Não Instala o Pacote php8.3-fpm](https://gmgall.net/blog/atualizacao-do-ubuntu-nao-instala-o-php8.3-fpm/)
 - [Minha Primeira Distro Linux](https://gmgall.net/blog/minha-primeira-distro-linux/)
 - [Privatização, Terceirização e Morte](https://gmgall.net/blog/privatizacao-terceirizacao-e-morte/)
-- [Os Protetores de Criancinhas Atacam de Novo](https://gmgall.net/blog/os-protetores-de-criancinhas-atacam-de-novo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
